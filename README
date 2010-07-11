@@ -1,0 +1,58 @@
+README
+======
+
+INTRODUCTION
+------------
+The TarsnapMonitor is intended to be an easy way to
+programatically use a Tarsnap account's statistics
+(bandwidth usage, storage, balance, etc) to whatever
+means.  It was originally written to be able to make
+projections as to when an account balance may run out.
+TarsnapMonitor.class.php is the class that makes this
+functionality available.  TarsnapMonitor.exec.php is
+a sample client usage of the TarsnapMonitor class.
+
+GitHub: http://http://github.com/wgbartley/Tarsnap-Monitor
+Home Page: http://www.garrettbartley.com/tarsnap-monitor/
+
+
+REQUIREMENTS
+------------
+PHP 5.x
+PHP SQLite3 Extension (http://www.php.net/sqlite3)
+PHP cURL Extension (http://www.php.net/curl)
+
+
+INSTALL
+-------
+Installation is pretty simple.  Download, extract, and hack
+to your heart's content.  See TarsnapMonitor.exec.php for
+a sample usage.
+
+
+COPYING
+-------
+See the LICENSE file included.
+
+
+AUTHORS
+-------
+Garrett Bartley (http://www.garrettbartley.com)
+
+
+THANKS
+------
+Colin Percival, Founder/Author of Tarsnap
+
+
+DONATE
+------
+If you find this script handy, please consider making
+a donation to the FreeBSD Foundation at
+http://www.freebsdfoundation.org/.
+
+
+CHANGELOG
+---------
+2010-07-11  v1.0  Garrett Bartley  <wgb@wgb.me>
+	* Initial release
