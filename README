@@ -12,7 +12,7 @@ TarsnapMonitor.class.php is the class that makes this
 functionality available.  TarsnapMonitor.exec.php is
 a sample client usage of the TarsnapMonitor class.
 
-GitHub: http://http://github.com/wgbartley/Tarsnap-Monitor
+GitHub: http://github.com/wgbartley/Tarsnap-Monitor
 Home Page: http://www.garrettbartley.com/tarsnap-monitor/
 
 
